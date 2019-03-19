@@ -41,4 +41,5 @@
 <summary>pcap analysis</summary>
 <br>
   https://packettotal.com/
+  For extracting any transmitted files: files > export objects
 </details>
