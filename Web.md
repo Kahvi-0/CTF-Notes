@@ -21,5 +21,15 @@ Vulnerable html tags:
   
   </details>
  
+  
+  <details>
+  <summary>Site Scanning</summary>
+  <br>
+  
+  Nikito:
+   - to do a basic scan: nikito -host www.ABC.com
+   - More info: https://hackertarget.com/nikto-tutorial/
+  
+  </details>
  
  
