@@ -15,6 +15,11 @@
   <summary>Image Colour Manipulation</summary>
   <br>
   Gimp2:
+   Look for distorts
+  Testing tools: Fuzzy Select tool and play with low thresholds till you see letters start to form
+  
+  
+   
    
   </details>
   
