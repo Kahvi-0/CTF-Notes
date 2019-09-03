@@ -37,8 +37,7 @@
        
        zsteg file.png
         
-  
-  </details>
+   </details>
   
   
   
