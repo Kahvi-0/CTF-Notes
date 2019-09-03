@@ -18,10 +18,7 @@
    Look for distorts
   Testing tools: Fuzzy Select tool and play with low thresholds till you see letters start to form
   
-  
-   
-   
-  </details>
+ </details>
   
   <details>
   <summary>Embedded Files</summary>
@@ -30,10 +27,16 @@
    Image distortion, black dots, out or ordinary colour difference.
   
   Steghide:
-   --info file.jpg to attempt to detect embedded files
-   -sf file.jpg  to extract embedded file
-  
-  
+          
+    --info file.jpg to attempt to detect embedded files
+    -sf file.jpg  to extract embedded file
+   
+   
+   zsteg:
+    for LSB (https://github.com/zed-0xff/zsteg)
+       
+       zsteg file.png
+        
   
   </details>
   
