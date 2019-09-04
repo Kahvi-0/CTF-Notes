@@ -33,7 +33,7 @@
    
    
    zsteg:
-    for LSB (https://github.com/zed-0xff/zsteg)
+    for detecting hidden data in BMP and PNG files (https://github.com/zed-0xff/zsteg)
        
        zsteg file.png
         
