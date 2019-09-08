@@ -1,4 +1,6 @@
-**NOTE** Using a proxy can give good insite on the queries being done and responses.
+
+
+Using an interception proxy such as zap or burp can give good insite on the queries being done and responses.
 
 Viewing page source/ Inspecting element
 
