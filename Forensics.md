@@ -37,6 +37,14 @@
        
        zsteg file.png
         
+  
+  LSB
+  https://github.com/Aqcurate/lsb-steganography
+  
+  
+  
+  Online check
+  https://futureboy.us/stegano/decinput.html
    </details>
   
   
