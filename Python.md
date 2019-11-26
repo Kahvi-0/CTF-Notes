@@ -11,20 +11,28 @@ https://github.com/Gallopsled/pwntools-tutorial
 
 https://github.com/Gallopsled/pwntools-tutorial/blob/master/tubes.md
 
- pip install pwn
+    pip install pwn
 
+    from pwn import *
 
 ## Convertion:
 
-"<hex>".decode("hex")
+    "<hex>".decode("hex")
  
  
- Decimal to binary 
+    Decimal to binary 
  
- bin(<decimal>)
+    bin(<decimal>)
  
+    binascii.    (https://docs.python.org/2/library/binascii.html)
 
 
 ## Network connections
 
 http://docs.pwntools.com/en/stable/intro.html
+
+    conn = ('<address>', <port>)
+
+    conn.recvline()  #one line at a time
+    
+    conn.recvuntil()
