@@ -25,3 +25,4 @@ https://github.com/Gallopsled/pwntools-tutorial
 
 ## Network connections
 
+http://docs.pwntools.com/en/stable/intro.html
