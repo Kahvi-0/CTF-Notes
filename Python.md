@@ -23,7 +23,12 @@ https://github.com/Gallopsled/pwntools-tutorial/blob/master/tubes.md
     Decimal to binary 
  
     bin(<decimal>)
- 
+    
+  ### Binary to ascii
+    
+    n = int('011001100110000101101100011000110110111101101110', 2)
+    n.to_bytes((n.bit_length() + 7) // 8, 'big').decode()
+
     binascii.    (https://docs.python.org/2/library/binascii.html)
 
 
