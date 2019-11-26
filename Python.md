@@ -12,7 +12,7 @@ https://github.com/Gallopsled/pwntools-tutorial
  pip install pwn
 
 
-Convertion:
+## Convertion:
 
 "<hex>".decode("hex")
  
@@ -21,3 +21,7 @@ Convertion:
  
  bin(<decimal>)
  
+
+
+## Network connections
+
