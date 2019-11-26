@@ -9,6 +9,8 @@
 
 https://github.com/Gallopsled/pwntools-tutorial
 
+https://github.com/Gallopsled/pwntools-tutorial/blob/master/tubes.md
+
  pip install pwn
 
 
