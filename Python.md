@@ -10,3 +10,14 @@
 https://github.com/Gallopsled/pwntools-tutorial
 
  pip install pwn
+
+
+Convertion:
+
+"<hex>".decode("hex")
+ 
+ 
+ Decimal to binary 
+ 
+ bin(<decimal>)
+ 
